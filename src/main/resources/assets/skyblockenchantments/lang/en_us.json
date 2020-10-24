@@ -1,0 +1,24 @@
+{
+  "block.skyblockenchantments.burnt_magma_block": "Burnt Magma Block",
+
+  "enchantment.skyblockenchantments.smelting_touch": "\u00A76Smelting Touch",
+  "enchantment.skyblockenchantments.experience": "\u00A7aExperience",
+  "enchantment.skyblockenchantments.fireworks": "\u00A73Fireworks",
+  "enchantment.skyblockenchantments.growth": "\u00A72Growth",
+  "enchantment.skyblockenchantments.life_steal": "\u00A7fLife-Steal",
+  "enchantment.skyblockenchantments.magma_walker": "\u00A76Magma-Walker",
+  "enchantment.skyblockenchantments.aiming": "\u00A7dAiming",
+  "enchantment.skyblockenchantments.rainbow": "\u00A7cRainbow",
+  "enchantment.skyblockenchantments.ender_slayer": "\u00A78Ender-Slayer",
+  "enchantment.skyblockenchantments.harvesting": "\u00A7aHarvesting",
+  "enchantment.skyblockenchantments.replenish": "\u00A73Replenish",
+  "enchantment.skyblockenchantments.ore_shatter": "\u00A75Ore-Shatter",
+  "enchantment.skyblockenchantments.wood_shatter": "\u00A75Wood-Shatter",
+  "enchantment.skyblockenchantments.leaf_shatter": "\u00A75Leaf-Shatter",
+  "enchantment.skyblockenchantments.speed": "\u00A7bSpeed",
+  "enchantment.skyblockenchantments.might": "\u00A7eMight",
+  "enchantment.skyblockenchantments.telekinesis": "\u00A7eTelekinesis",
+  "enchantment.skyblockenchantments.destroyer": "\u00A7dDestroyer",
+  "enchantment.skyblockenchantments.sniper": "\u00A78Sniper",
+  "enchantment.skyblockenchantments.tracker": "\u00A7aTracker"
+}

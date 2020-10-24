@@ -1,0 +1,6 @@
+{
+  "variants":
+  {
+    "": { "model": "skyblockenchantments:block/burnt_magma_block" }
+  }
+}

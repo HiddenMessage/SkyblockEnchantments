@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures":
+  {
+    "all": "skyblockenchantments:blocks/burnt_magma_block"
+  }
+}
